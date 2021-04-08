@@ -1,9 +1,9 @@
-package com.liverpool.app.data.datasourceImplementations.api
+package com.liverpool.app.data.datasourceimplementations.api
 
 
 import com.liverpool.app.data.exceptions.ApiResponseHandler
 import com.liverpool.app.data.services.api.LiverpoolService
-import com.liverpool.app.domain.dataSourceAbstractions.LiverpoolDataSource
+import com.liverpool.app.domain.datasourceabstractions.LiverpoolDataSource
 import com.liverpool.app.domain.mappers.SearchMapper
 import com.liverpool.app.domain.models.Search
 import io.reactivex.Observable

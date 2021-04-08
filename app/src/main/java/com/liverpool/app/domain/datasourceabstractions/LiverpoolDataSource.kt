@@ -1,10 +1,9 @@
-package com.liverpool.app.domain.repositoryAbstractions
+package com.liverpool.app.domain.datasourceabstractions
 
 import com.liverpool.app.domain.models.Search
-import com.liverpool.app.domain.models.responseObjects.SearchResponse
 import io.reactivex.Observable
 
-interface LiverpoolRepository {
+interface LiverpoolDataSource {
 
     fun search(
         forcePlp: Boolean,

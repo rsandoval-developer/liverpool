@@ -4,7 +4,7 @@ import android.view.View
 import androidx.lifecycle.MutableLiveData
 import com.liverpool.app.domain.models.Search
 import com.liverpool.app.domain.models.requestObjects.SearchRequest
-import com.liverpool.app.domain.useCases.SearchUseCase
+import com.liverpool.app.domain.usecases.SearchUseCase
 import com.liverpool.app.presentation.ui.viewmodels.base.ViewModelBase
 
 class SearchViewModel(private val searchUseCase: SearchUseCase) : ViewModelBase() {

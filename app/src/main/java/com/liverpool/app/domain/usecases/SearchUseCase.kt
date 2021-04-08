@@ -1,9 +1,9 @@
-package com.liverpool.app.domain.useCases
+package com.liverpool.app.domain.usecases
 
 import com.liverpool.app.domain.models.Search
 import com.liverpool.app.domain.models.requestObjects.SearchRequest
-import com.liverpool.app.domain.repositoryAbstractions.LiverpoolRepository
-import com.liverpool.app.domain.useCases.base.ParamsUseCase
+import com.liverpool.app.domain.repositoryabstractions.LiverpoolRepository
+import com.liverpool.app.domain.usecases.base.ParamsUseCase
 import io.reactivex.Observable
 import javax.inject.Inject
 

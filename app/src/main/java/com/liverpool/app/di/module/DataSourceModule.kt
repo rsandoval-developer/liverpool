@@ -1,8 +1,8 @@
 package com.liverpool.app.di.module
 
-import com.liverpool.app.data.datasourceImplementations.api.LiverpoolApiDataSourceImpl
+import com.liverpool.app.data.datasourceimplementations.api.LiverpoolApiDataSourceImpl
 import com.liverpool.app.data.services.api.LiverpoolService
-import com.liverpool.app.domain.dataSourceAbstractions.LiverpoolDataSource
+import com.liverpool.app.domain.datasourceabstractions.LiverpoolDataSource
 import dagger.Module
 import dagger.Provides
 import retrofit2.Retrofit

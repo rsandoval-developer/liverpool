@@ -1,8 +1,8 @@
-package com.liverpool.app.data.reposotoryImplementations
+package com.liverpool.app.data.reposotoryimplementations
 
-import com.liverpool.app.domain.dataSourceAbstractions.LiverpoolDataSource
+import com.liverpool.app.domain.datasourceabstractions.LiverpoolDataSource
 import com.liverpool.app.domain.models.Search
-import com.liverpool.app.domain.repositoryAbstractions.LiverpoolRepository
+import com.liverpool.app.domain.repositoryabstractions.LiverpoolRepository
 import io.reactivex.Observable
 import javax.inject.Inject
 

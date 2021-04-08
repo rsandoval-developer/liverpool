@@ -2,7 +2,7 @@ package com.liverpool.app.presentation.ui.search
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.liverpool.app.domain.useCases.SearchUseCase
+import com.liverpool.app.domain.usecases.SearchUseCase
 import javax.inject.Inject
 
 class SearchViewModelFactory @Inject constructor(

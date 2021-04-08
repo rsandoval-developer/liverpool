@@ -1,4 +1,4 @@
-package com.liverpool.app.domain.useCases.base
+package com.liverpool.app.domain.usecases.base
 
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.disposables.Disposable
